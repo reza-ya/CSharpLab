@@ -1,1 +1,7 @@
-﻿Console.WriteLine("Hello, World!");
+﻿public class Program
+{
+    void Main()
+    {
+        Console.WriteLine("Hello World!");
+    }
+}
