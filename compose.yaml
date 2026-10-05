@@ -1,0 +1,7 @@
+﻿services:
+  csharplab:
+    image: csharplab
+    build:
+      context: .
+      dockerfile: CSharpLab/Dockerfile
+
